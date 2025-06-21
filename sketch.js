@@ -42,7 +42,7 @@ function setup()
     isPlummeting = false
 
     collectable = {x_pos: 265, y_pos: 72, size: 50, isFound: false}
-    canyon = {x_pos: 0, width: 10}
+    canyon = {x_pos: 0, width: 7}
     cloud = [0,300,600,900];
     mountain = {x_pos: 130, y_pos: 0, size: 20}
 }
